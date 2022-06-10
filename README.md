@@ -7,12 +7,15 @@ Inspired by Zekfoo's AGZ and CGZ, I designed and created the SZ-MGBC - a Game Bo
 - USB-C Rechargeable LiPo battery
 - Safe Charge and Play
 - Game Boy Color in Pocket form-factor
+- Q5 IPS Display
+- 4-layer PCB with GND and PWR plane layers
 
 ![](images/pcb_front.JPEG)
 ![](images/pcb_back.JPEG)
 
 # Additional Thoughts
 
+As I don't have any electrical engineering experience (just a hobbyist with too much time on my hands), I followed "typical application" schematics for the power, charge, and audio circuits and chained them on this board; by some miracle they worked.  For thatits 
 
 # Credit and Thanks
 
