@@ -11,6 +11,8 @@ Inspired by Zekfoo's AGZ and CGZ, I designed and created the SZ-MGBC - a Game Bo
 ![](images/pcb_front.JPEG)
 ![](images/pcb_back.JPEG)
 
+# Additional Thoughts
+
 
 # Credit and Thanks
 
