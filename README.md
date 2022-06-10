@@ -8,6 +8,9 @@ Inspired by Zekfoo's AGZ and CGZ, I designed and created the SZ-MGBC - a Game Bo
 - Safe Charge and Play
 - Game Boy Color in Pocket form-factor
 
+![](images/pcb_front.JPEG)
+![](images/pcb_back.JPEG)
+
 
 # Credit and Thanks
 
